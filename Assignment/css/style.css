@@ -1,0 +1,228 @@
+li{
+  display:inline;
+}
+
+.navigation
+{
+  float:right;
+  margin-top: 25px;
+  padding-top: 17px;
+  padding-right: 50px;
+}
+.logo
+{
+  float:left;
+}
+a{
+  color:black;
+  text-decoration: none;
+  font-family: 'Mv Boli';
+  font-size:14px;
+}
+header
+{
+  overflow: hidden;
+  background-color: #FFF0F5;
+  position:fixed;
+  width:100%;
+  border: 2px solid #A9A9A9;
+}
+footer
+{
+  overflow: hidden;
+  background-color: #FFF0F5;
+  margin-top: 5px;
+  border: 2px solid #A9A9A9;
+}
+a:hover{
+  color:#1ABC9C;
+}
+h1,h2,h3
+{
+  font-family: 'Mv boli';
+  font-size:28px;
+  font-color:black;
+}
+span{
+  font-family: 'Mv boli';
+  font-size:20px;
+
+}
+.breadcrumb
+{
+  float:right;
+  padding-top: 30px;
+
+}
+.hero_unit_image
+{
+  width:500px;
+  height: 300px;
+  border: 2px solid black;
+}
+.content_formate
+{
+  line-height: 1.8;
+  box-sizing: border-box;
+  color: #1ABC9C;;
+  font-family: 'Mv boli';
+  font-size: 16px;
+  text-align:left;
+  margin-top: 10px;
+}
+i{
+  background-color: 'transparent!important';
+  color: #1ABC9C;
+  display: block;
+  font-family: 'mv boli';
+  font-size: 48px;
+}
+.mission_vision
+{
+
+    padding-top: 30px;
+}
+
+.M_V_IMG
+{
+  width:250px;
+  height: 150px;
+  border: 4px solid black;
+  padding-left: 0px;
+}
+
+.description
+{
+  line-height: 1.8;
+  box-sizing: border-box;
+  color: #1ABC9C;
+  font-family: 'Mv boli';
+  font-size: 16px;
+  text-align:left;
+  margin-top: 10px;
+}
+
+.subtitle{
+  color: #444;
+  font-family: 'Mv boli';
+  font-size: 16px;
+}
+.logo_img
+{
+  border: 4px solid #999;
+  width: 170px;
+  height: 130px;
+}
+.copyright
+{
+  padding-left: 70px;
+  font-family:'Mv boli';
+}
+.footer_links
+{
+  margin-top: 10px;
+}
+.socialmedia_links
+{
+  padding-right: 30px;
+
+  font-family:'Mv boli';
+}
+
+.footer_image
+{
+  width: 30px;
+  height: 30px;
+}
+.new
+{
+  margin-top: 150px;
+}
+.kids_logo
+{
+  font-family: 'Mv Boli';
+  font-size:20px;
+  margin-left: 40px;
+  color: black;
+  margin-top:17px;
+}
+.copyright p
+{
+  color:black;
+}
+.img_hero_new
+{
+  background-image: url('../img/1 (1).jpg');
+  position: relative;
+  width:100%;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img_text
+{
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.testing
+{
+  background-image: url('../img/fdhzj8xz7pyekmma8n5l2fmsbilytfcuqnl3kxmubijrl-16dw13cy4nkyfnprfhnt2b3q5yhvzdz9ts6f0pgspawce0 (1).jpg');
+  position: relative;
+  width:500px;
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 4px solid black;
+}
+.testing_text
+{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 210px;
+}
+.testing_text p{
+  color:#c8a466;
+  font-family: 'Mv Boli';
+  font-size:20px;
+}
+body{
+
+
+background-color: #F5F5F5;
+    background-size: cover;
+}
+
+.baby
+{
+  background-image: url('../img/balls-313404_960_720.jpg');
+  position: relative;
+  width:100%;
+  height: 1000px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+
+  margin-top: 88px;
+}
+.baby_text
+{
+
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 600px;
+}
+.baby_text p{
+  color:#D8BFD8;
+  font-family: 'Mv Boli';
+  font-size:40px;
+}
+.agnitus_skills img{
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.agnitus_skills p{
+  color: #F5F5F5;
+}
